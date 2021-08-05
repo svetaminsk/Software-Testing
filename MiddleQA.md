@@ -1,4 +1,4 @@
-[Internet Fundamentals (сети, протоколы)](#Internet)
+[Internet Fundamentals (сети, протоколы)](#Internet)  
 [Computer Science](#CS)
 
 <a name="Internet"></a>
