@@ -1,4 +1,5 @@
 [Internet Fundamentals (сети, протоколы)](#Internet)
+[Computer Science](#CS)
 
 <a name="Internet"></a>
 # Internet Fundamentals (сети, протоколы)  
@@ -169,3 +170,8 @@ DNS состоит из распределенной базы имен, чья �
 
 
 [Основы сетей передачи данных (видео)](https://www.youtube.com/watch?v=Z-a7MNStFQs)
+
+<a name="CS"></a>  
+# Computer Science
+
+[Watch Youtube Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
